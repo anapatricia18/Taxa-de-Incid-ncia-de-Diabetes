@@ -1,6 +1,14 @@
 # 🩸 Taxa de Incidência de Diabetes 🩸
 
 ## 📈 Recolha de dados e API's usados 📈
+
+Os dados foram recolhidos através das API's fornecidas do website da SNS(serviço nacional de saúde), onde foi analisado
+
+
+
+
+
+
 ## ✍🏼 Contexto ✍🏼
 ## 🧱 Estrutura 🧱
 ## 📔 Dicionário de dados 📔 
