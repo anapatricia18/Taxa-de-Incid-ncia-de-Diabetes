@@ -10,6 +10,10 @@ Os dados foram recolhidos através das API's fornecidas do website da SNS(servi�
 
 
 ## ✍🏼 Contexto ✍🏼
+Para esta análise sobre a taxa de incidência de diabetes em Portugal de 1992 até 2018 recorremos ao website do serviço nacional de saúde, procurando então no mesmo a tabela com estes valores que pretendíamos. O website já disponibilizava o ficheiro em CSV facilitando assim a criação da tabela com os valores.
+Esta tabela permite-nos consultar a taxa de incidência em cada ano a partir de 1992 até 2018, esta permite analisar a taxa de incidência apenas no sexo masculino em todas as faixas etárias, o mesmo acontece no feminino. Temos também a possibilidade de examinar esta mesma taxa, desta vez de acordo com as diversas faixas etárias, independentemente de serem do sexo masculino ou feminino. Estas faixas etárias são dos 0 aos 4, dos 5 aos 9, dos 10 aos 14, dos 15 aos 24, dos 25 aos 34, dos 35 aos 44, dos 45 aos 54, dos 55 aos 64, dos 65 a 74 e por fim os de 75 ou mais anos.
+A unidade de medida presente nesta tabela é a de “Número por 100 000”, cuja fórmula utilizada pelo SNS para este cálculo é a seguinte: “Número de novos casos de diabetes notificados pela rede médicos sentinela / População sob observação efetiva pela rede médicos sentinela”. A Rede Médicos Sentinela é um sistema de observação em saúde constituído por médicos de Medicina Geral e Familiar. 
+Uma pequena observação que aparece no website sobre os dados avaliados é: “Os valores da taxa de incidência para os anos 2014 e 2015 são, exclusivamente, atribuíveis à Diabetes tipo II, enquanto nos anos anteriores foram considerados conjuntamente os dois tipos de diabetes.”
 ## 🧱 Estrutura 🧱
 ## 📔 Dicionário de dados 📔 
 
