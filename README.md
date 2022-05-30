@@ -13,7 +13,7 @@ Uma pequena observação que aparece no website sobre os dados avaliados é: “
 ## ✍🏼 Contexto ✍🏼
 
 A principal causa da diabetes é a má alimentação, especialmente o consumo excessivo de alimentos açucarados e a falta de atividade física. O tratamento da mesma passa por fazer alterações no estilo de vida, nomeadamente a implementação de um plano alimentar (dieta) e a prática de exercício físico.
-Como todos sabemos as pessoas cada vez são mais sedentárias e têm uma alimentação pior derivada do fast food, principalmente as gerações mais novas, havendo assim mais probabilidade de contrair a doença.
+Como todos sabemos as pessoas cada vez são mais sedentárias e têm uma alimentação pior derivada do fast food, principalmente as gerações mais novas, havendo assim maior probabilidade de contrair a doença.
 
 Sendo então a diabetes uma doença bastante falada e conhecida nos dias de hoje que afeta cada vez mais a população, tornando-se gradualmente mais comum nos jovens como já foi referido, procurámos assim abordar este tema com o intuito de alertar para a mesma, analisando a Taxa de Incidência de Diabetes.
 
