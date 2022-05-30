@@ -10,10 +10,6 @@ A unidade de medida presente nesta tabela é a de “Número por 100 000”, cuj
 
 Uma pequena observação que aparece no website sobre os dados avaliados é: “Os valores da taxa de incidência para os anos 2014 e 2015 são, exclusivamente, atribuíveis à Diabetes tipo II, enquanto nos anos anteriores foram considerados conjuntamente os dois tipos de diabetes.”
 
-
-
-
-
 ## ✍🏼 Contexto ✍🏼
 
 ## 🧱 Estrutura 🧱
