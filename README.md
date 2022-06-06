@@ -33,7 +33,7 @@ Este projeto pode ser considerado ético e público, assim como todos os dados q
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
-|  Ano |  anos correspondentes as estatísticas apresentadas entre os anos 1992 e 2018 | >=0 |
+|  Período |  anos correspondentes as estatísticas apresentadas entre os anos 1992 e 2018 | >=0 |
 |  Sexo Masculino |  número de homens com diabetes em Portugal respetivamente a cada ano | >=0 |
 |  Sexo Feminino  |  número de mulheres com diabetes em Portugal respetivamente a cada ano | >=0 |
 |  0 aos 4 anos |  número de pessoas com diabetes dos 0 aos 4 anos | >=0 |
