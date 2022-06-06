@@ -20,9 +20,9 @@ Sendo então a diabetes uma doença bastante falada e conhecida nos dias de hoje
 Este projeto pode ser considerado ético e público, assim como todos os dados que estão presentes no mesmo. Ao utilizar estes dados pretendemos então alertar de uma forma diferente a população, pois normalmente valores concretos causam um impacto maior do que apenas dizer que a doença é cada vez mais comum.
 
 ## 🧱 Estrutura 🧱
-[Taxa de Incidência de Diabetes - Trabalho Notebook](https://github.com/anapatricia18/Taxa-de-Incid-ncia-de-Diabetes/blob/main/Trabalho%20de%20Grupo%20-%20Diabetes%20FINAL.ipynb)
+[Taxa de Incidência de Diabetes - Trabalho Notebook](https://github.com/anapatricia18/Taxa-de-Incid-ncia-de-Diabetes/blob/main/Notebook%20-%20Taxa%20de%20Incid%C3%AAncia%20de%20Diabetes.ipynb)
 
-[Diabetes - CSV](https://github.com/anapatricia18/Taxa-de-Incid-ncia-de-Diabetes/blob/main/diabetes.csv)
+[Diabetes - CSV](https://github.com/anapatricia18/Taxa-de-Incid-ncia-de-Diabetes/blob/main/taxa-de-incidencia-de-diabetes%20(1).csv)
 
 
 [Cartaz - Diabetes](https://github.com/anapatricia18/Taxa-de-Incid-ncia-de-Diabetes/blob/main/Cartaz_Diabetes.jpg)
